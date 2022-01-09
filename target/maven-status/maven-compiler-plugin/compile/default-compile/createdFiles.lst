@@ -1,0 +1,4 @@
+resources\base.class
+pObjects\ForgotPassword.class
+pObjects\LoginPage.class
+pObjects\LandingPage.class
